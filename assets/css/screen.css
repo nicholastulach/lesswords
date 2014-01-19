@@ -334,9 +334,12 @@ header#site-head {
 }
 
 nav#site-navigation {
-    list-style-type: none;
     text-align: center;
     line-height: 2em;
+}
+
+nav#site-navigation ul li {
+    list-style-type: none;
 }
 
 
