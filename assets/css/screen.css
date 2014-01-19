@@ -333,7 +333,8 @@ header#site-head {
     text-align: center;
 }
 
-nav {
+nav#site-navigation {
+    text-align: center;
     line-height: 2em;
 }
 
