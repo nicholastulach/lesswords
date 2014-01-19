@@ -336,6 +336,7 @@ header#site-head {
 nav#site-navigation {
     text-align: center;
     line-height: 2em;
+    margin-top: 10px;
 }
 
 nav#site-navigation ul {
