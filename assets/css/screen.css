@@ -340,6 +340,8 @@ nav#site-navigation {
 
 nav#site-navigation ul {
     margin: 0;
+    padding: 0;
+    -webkit-padding-start: 0;
 }
 
 nav#site-navigation ul li {
