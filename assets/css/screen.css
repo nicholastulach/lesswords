@@ -46,38 +46,6 @@ body {
     position: relative;
     }
 
-	/* Background patterns */
-	body:after,
-	body:before {
-		z-index: -1;
-	    display: block;
-	    content: "";
-		-moz-transform: scale(2) rotate(30deg) translate(50px);
-		-webkit-transform: scale(1.2) rotate(30deg) translate(50px);
-		-o-transform: scale(2) rotate(30deg) translate(50px);
-		transform: scale(2) rotate(30deg) translate(50px);
-	    position: fixed;	
-	} 
-	body:after {
-	    width: 500px;
-	    height: 500px;
-	    top: -450px;
-	    left: -200px;	
-		-moz-box-shadow:    0 0 50px rgba(0,0,0,0.05);
-		-webkit-box-shadow: 0 0 50px rgba(0,0,0,0.05);
-		box-shadow:         0 0 50px rgba(0,0,0,0.05);
-	   }
-	
-	body:before {
-	    width: 1000px;
-	    height: 1000px;
-	    top: 530px;
-	    left: -120px;
-		-moz-box-shadow:    inset 0 0 50px rgba(0,0,0,0.05);
-		-webkit-box-shadow: inset 0 0 50px rgba(0,0,0,0.05);
-		box-shadow:         inset 0 0 50px rgba(0,0,0,0.05);
-	}
-
 ::-moz-selection {
     color: #222;
     background: #e9e9e9;
