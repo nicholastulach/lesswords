@@ -67,6 +67,8 @@ h4, h5, h6 {
     font-size: 12px; /* 11px */
 }
 
+.post-content h1 { font-weight: bold; }
+
 .post-content h2 {
 	margin: 1.8em 0 1.8em -1.15em;
     padding: 0 0 0 0.9em;
@@ -388,6 +390,7 @@ nav#site-navigation ul li {
 	color: #bcc0c2;
 }
 .post-title {
+        font-size: 14px; /* ADDED NKT */
 	padding: 0 5rem 0 0;
 	margin: 0;
 }
