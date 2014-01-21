@@ -707,11 +707,11 @@ nav#site-navigation ul li {
 
 .form-4 input[type=submit] {
     /* Size and position */
-    width: 100%;
+    width: 50%;
     padding: 8px 5px;
      
     /* Styles */
-    background: linear-gradient(rgba(99,64,86,0.5), rgba(76,49,65,0.7));    
+    background: linear-gradient(rgba(206, 179, 227, 0.5), rgba(206, 179, 227, 0.7));    
     border-radius: 5px;
     border: 1px solid #4e3043;
     box-shadow: 
