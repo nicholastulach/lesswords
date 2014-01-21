@@ -708,7 +708,7 @@ nav#site-navigation ul li {
 .form-4 input[type=submit] {
     /* Size and position */
     width: 50%;
-    padding: 8px 5px;
+    padding: 5px 3px;
      
     /* Styles */
     background: linear-gradient(rgba(206, 179, 227, 0.5), rgba(206, 179, 227, 0.7));    
